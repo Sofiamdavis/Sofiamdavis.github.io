@@ -11,9 +11,9 @@ background-color:pink;
 border:5px solid fuchsia;
 }
 #highlight {
-  color: black;
-  background-color: pink;
-  border: 5px solid fuchsia;
+  color: pink;
+  background-color: purple;
+  border: 5px solid pink;
 }
 h3 {
   color:pink;
